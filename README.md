@@ -71,4 +71,4 @@ node server.js --dev              # geliştirme modu
 
 ## Lisans
 
-MIT © UniCaSoft
+MIT — Copyright © 2026 - Unicasoft
